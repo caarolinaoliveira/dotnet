@@ -1,0 +1,5 @@
+/workspaces/dotnet/heranca/obj/Debug/net8.0/heranca.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet/heranca/obj/Debug/net8.0/heranca.AssemblyInfoInputs.cache
+/workspaces/dotnet/heranca/obj/Debug/net8.0/heranca.AssemblyInfo.cs
+/workspaces/dotnet/heranca/obj/Debug/net8.0/heranca.csproj.CoreCompileInputs.cache
+/workspaces/dotnet/heranca/obj/Debug/net8.0/heranca.sourcelink.json

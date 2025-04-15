@@ -7,6 +7,7 @@ public class Cliente
     public string endereco;
     public string telefone;
     public string rg;
+
 }
 
 public class Conta
