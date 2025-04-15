@@ -1,0 +1,15 @@
+/workspaces/dotnet/classesEObjetos/obj/Debug/net8.0/classesEObjetos.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet/classesEObjetos/obj/Debug/net8.0/classesEObjetos.AssemblyInfoInputs.cache
+/workspaces/dotnet/classesEObjetos/obj/Debug/net8.0/classesEObjetos.AssemblyInfo.cs
+/workspaces/dotnet/classesEObjetos/obj/Debug/net8.0/classesEObjetos.csproj.CoreCompileInputs.cache
+/workspaces/dotnet/classesEObjetos/obj/Debug/net8.0/classesEObjetos.sourcelink.json
+/workspaces/dotnet/classesEObjetos/bin/Debug/net8.0/classesEObjetos
+/workspaces/dotnet/classesEObjetos/bin/Debug/net8.0/classesEObjetos.deps.json
+/workspaces/dotnet/classesEObjetos/bin/Debug/net8.0/classesEObjetos.runtimeconfig.json
+/workspaces/dotnet/classesEObjetos/bin/Debug/net8.0/classesEObjetos.dll
+/workspaces/dotnet/classesEObjetos/bin/Debug/net8.0/classesEObjetos.pdb
+/workspaces/dotnet/classesEObjetos/obj/Debug/net8.0/classesEObjetos.dll
+/workspaces/dotnet/classesEObjetos/obj/Debug/net8.0/refint/classesEObjetos.dll
+/workspaces/dotnet/classesEObjetos/obj/Debug/net8.0/classesEObjetos.pdb
+/workspaces/dotnet/classesEObjetos/obj/Debug/net8.0/classesEObjetos.genruntimeconfig.cache
+/workspaces/dotnet/classesEObjetos/obj/Debug/net8.0/ref/classesEObjetos.dll

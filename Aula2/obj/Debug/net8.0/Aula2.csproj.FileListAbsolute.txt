@@ -1,0 +1,15 @@
+/workspaces/dotnet/Aula2/obj/Debug/net8.0/Aula2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet/Aula2/obj/Debug/net8.0/Aula2.AssemblyInfoInputs.cache
+/workspaces/dotnet/Aula2/obj/Debug/net8.0/Aula2.AssemblyInfo.cs
+/workspaces/dotnet/Aula2/obj/Debug/net8.0/Aula2.csproj.CoreCompileInputs.cache
+/workspaces/dotnet/Aula2/obj/Debug/net8.0/Aula2.sourcelink.json
+/workspaces/dotnet/Aula2/bin/Debug/net8.0/Aula2
+/workspaces/dotnet/Aula2/bin/Debug/net8.0/Aula2.deps.json
+/workspaces/dotnet/Aula2/bin/Debug/net8.0/Aula2.runtimeconfig.json
+/workspaces/dotnet/Aula2/bin/Debug/net8.0/Aula2.dll
+/workspaces/dotnet/Aula2/bin/Debug/net8.0/Aula2.pdb
+/workspaces/dotnet/Aula2/obj/Debug/net8.0/Aula2.dll
+/workspaces/dotnet/Aula2/obj/Debug/net8.0/refint/Aula2.dll
+/workspaces/dotnet/Aula2/obj/Debug/net8.0/Aula2.pdb
+/workspaces/dotnet/Aula2/obj/Debug/net8.0/Aula2.genruntimeconfig.cache
+/workspaces/dotnet/Aula2/obj/Debug/net8.0/ref/Aula2.dll

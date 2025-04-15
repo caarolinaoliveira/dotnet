@@ -1,0 +1,15 @@
+/workspaces/dotnet/Aula3/obj/Debug/net8.0/Aula3.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet/Aula3/obj/Debug/net8.0/Aula3.AssemblyInfoInputs.cache
+/workspaces/dotnet/Aula3/obj/Debug/net8.0/Aula3.AssemblyInfo.cs
+/workspaces/dotnet/Aula3/obj/Debug/net8.0/Aula3.csproj.CoreCompileInputs.cache
+/workspaces/dotnet/Aula3/obj/Debug/net8.0/Aula3.sourcelink.json
+/workspaces/dotnet/Aula3/bin/Debug/net8.0/Aula3
+/workspaces/dotnet/Aula3/bin/Debug/net8.0/Aula3.deps.json
+/workspaces/dotnet/Aula3/bin/Debug/net8.0/Aula3.runtimeconfig.json
+/workspaces/dotnet/Aula3/bin/Debug/net8.0/Aula3.dll
+/workspaces/dotnet/Aula3/bin/Debug/net8.0/Aula3.pdb
+/workspaces/dotnet/Aula3/obj/Debug/net8.0/Aula3.dll
+/workspaces/dotnet/Aula3/obj/Debug/net8.0/refint/Aula3.dll
+/workspaces/dotnet/Aula3/obj/Debug/net8.0/Aula3.pdb
+/workspaces/dotnet/Aula3/obj/Debug/net8.0/Aula3.genruntimeconfig.cache
+/workspaces/dotnet/Aula3/obj/Debug/net8.0/ref/Aula3.dll

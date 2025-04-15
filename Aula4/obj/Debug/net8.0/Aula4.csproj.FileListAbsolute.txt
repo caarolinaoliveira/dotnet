@@ -1,0 +1,15 @@
+/workspaces/dotnet/Aula4/obj/Debug/net8.0/Aula4.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet/Aula4/obj/Debug/net8.0/Aula4.AssemblyInfoInputs.cache
+/workspaces/dotnet/Aula4/obj/Debug/net8.0/Aula4.AssemblyInfo.cs
+/workspaces/dotnet/Aula4/obj/Debug/net8.0/Aula4.csproj.CoreCompileInputs.cache
+/workspaces/dotnet/Aula4/obj/Debug/net8.0/Aula4.sourcelink.json
+/workspaces/dotnet/Aula4/bin/Debug/net8.0/Aula4
+/workspaces/dotnet/Aula4/bin/Debug/net8.0/Aula4.deps.json
+/workspaces/dotnet/Aula4/bin/Debug/net8.0/Aula4.runtimeconfig.json
+/workspaces/dotnet/Aula4/bin/Debug/net8.0/Aula4.dll
+/workspaces/dotnet/Aula4/bin/Debug/net8.0/Aula4.pdb
+/workspaces/dotnet/Aula4/obj/Debug/net8.0/Aula4.dll
+/workspaces/dotnet/Aula4/obj/Debug/net8.0/refint/Aula4.dll
+/workspaces/dotnet/Aula4/obj/Debug/net8.0/Aula4.pdb
+/workspaces/dotnet/Aula4/obj/Debug/net8.0/Aula4.genruntimeconfig.cache
+/workspaces/dotnet/Aula4/obj/Debug/net8.0/ref/Aula4.dll
